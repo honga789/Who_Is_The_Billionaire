@@ -183,7 +183,7 @@ void stageScreen::setIsInit(bool _IsInit)
 
 void stageScreen::initStage()
 {
-	if (stageScreen::numLevel > 15)
+	if (stageScreen::isInit && stageScreen::numLevel > 15)
 	{
 		// stageScreen::mcMess[5] = "chuc mung ban da vuot qua cau:"
 		constants::endMessage = stageScreen::mcMess[5] + " " + std::to_string(15);
@@ -194,7 +194,7 @@ void stageScreen::initStage()
 
 	if (stageScreen::isInit)
 		return;
-	
+
 	stageScreen::ans = -1;
 	stageScreen::isUsedHelp1 = 0;
 	stageScreen::isUsedHelp2 = 0;
@@ -266,19 +266,16 @@ void stageScreen::handleEvent(SDL_Event e)
 			{
 				//std::cout << "A. " + stageScreen::curAns[0] << std::endl;
 				stageScreen::ans = 0;
-
 			}
 			else if (stageScreen::buttonB->isPointInButton(e.motion.x, e.motion.y))
 			{
 				//std::cout << "B. " + stageScreen::curAns[1] << std::endl;
 				stageScreen::ans = 1;
-
 			}
 			else if (stageScreen::buttonC->isPointInButton(e.motion.x, e.motion.y))
 			{
 				//std::cout << "C. " + stageScreen::curAns[2] << std::endl;
 				stageScreen::ans = 2;
-
 			}
 			else if (stageScreen::buttonD->isPointInButton(e.motion.x, e.motion.y))
 			{
@@ -380,4 +377,5 @@ void stageScreen::update()
 			gameManager::gameState = constants::SS_END;
 		}
 	}
+
 }
