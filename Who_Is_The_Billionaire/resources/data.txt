@@ -1,0 +1,301 @@
+30 20
+Con sông nào dài nhất Việt Nam?
+Sông Hồng
+Sông Đà
+Sông Mekong
+Sông Lạch Tray
+2
+Thủ đô của nước Pháp là gì?
+Berlin
+London
+Paris
+Rome
+2
+Loài động vật nào là biểu tượng của nước Úc?
+Kanguru
+Gấu túi
+Đà điểu đầu emu
+Koala
+0
+Bức tranh Mona Lisa do ai sáng tác?
+Leonardo da Vinci
+Michelangelo
+Raphael
+Donatello
+0
+Kim tự tháp nào sau đây là lớn nhất?
+Kim tự tháp Khafre
+Kim tự tháp Giza
+Kim tự tháp Menkaure
+Tượng Nhân sư Giza
+1
+Câu chuyện cổ tích "Cô bé Lọ Lem" xuất phát từ quốc gia nào?
+Đức
+Pháp
+Ý
+Hy Lạp
+1
+Nhà soạn nhạc nào đã sáng tác bản nhạc "Symphony No. 5"?
+Pyotr Ilyich Tchaikovsky
+Wolfgang Amadeus Mozart
+Johann Sebastian Bach
+Ludwig van Beethoven
+3
+Tính đến đầu năm 2024, nước nào có nền dân số đông nhất thế giới?
+Trung Quốc
+Indonesia
+Hoa Kỳ
+Ấn Độ
+3
+Nguyên tố hóa học nào có số hiệu nguyên tử 8?
+Oxy
+Carbon
+Nitrogen
+Flo
+0
+"Hamlet" là tác phẩm nổi tiếng nhất của nhà văn nào?
+William Shakespeare
+Charles Dickens
+Jane Austen
+Mark Twain
+0
+Núi Everest - ngọn núi cao nhất thế giới - thuộc dãy núi nào?
+Dãy Andes
+Dãy Himalaya
+Dãy Alps
+Dãy Rocky
+1
+Loài chim nào không thể bay?
+Chim đại bàng
+Chim cánh cụt
+Vịt trời
+Chim én
+1
+Quốc gia nào có diện tích lớn nhất thế giới?
+Trung Quốc
+Canada
+Nga
+Hoa Kỳ
+2
+"Truyện Kiều" là tác phẩm nổi tiếng nhất của nhà thơ nào?
+Bà Huyện Thanh Quan
+Hồ Xuân Hương
+Nguyễn Du
+Nguyễn Trãi
+2
+Nước nào được mệnh danh là "đất nước mặt trời mọc"?
+Singapore
+Hàn Quốc
+Trung Quốc
+Nhật Bản
+3
+Con sông nào chảy qua thủ đô Hà Nội của Việt Nam?
+Sông Cửu Long
+Sông Đà
+Sông Mekong
+Sông Hồng
+3
+Loài động vật nào có bộ não lớn nhất so với kích thước cơ thể?
+Cá heo
+Voi
+Khỉ
+Chim
+0
+Bức tranh "The Scream" do ai sáng tác?
+Edvard Munch
+Vincent van Gogh
+Pablo Picasso
+Gustav Klimt
+0
+Hệ mặt trời của chúng ta có bao nhiêu hành tinh?
+9
+8
+10
+11
+1
+Nước nào là nơi khai sinh ra môn thể thao bóng đá?
+Brazil
+Anh
+Argentina
+Ý
+1
+"Chí Phèo" là tác phẩm nổi tiếng nhất của nhà văn nào?
+Tản Đà
+Tú Xương
+Nam Cao
+Xuân Diệu
+2
+Loài hoa nào được mệnh danh là "nữ hoàng của các loài hoa"?
+Hoa lan
+Hoa sen
+Hoa hồng
+Hoa tulip
+2
+Nước nào là quê hương của bánh pizza?
+Đức
+Tây Ban Nha
+Pháp
+Ý
+3
+Tính đến 2024, nước nào có nền kinh tế lớn nhất thế giới?
+Đức
+Trung Quốc
+Nhật Bản
+Hoa Kỳ
+3
+Ai là người sáng lập của Microsoft?
+Bill Gates
+Steve Jobs
+Mark Zuckerberg
+Jeff Bezos
+0
+Ai là người đầu tiên bước chân lên mặt trăng?
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+John Glenn
+0
+Nước nào có hình dạng như một chiếc ủng?
+Tây Ban Nha
+Ý
+Bồ Đào Nha
+Hy Lạp
+1
+Ai là người sáng lập của Apple Inc.?
+Bill Gates
+Steve Jobs
+Jeff Bezos
+Larry Page
+1
+Điện thoại di động ra đời vào năm nào?
+1993
+1983
+1973
+2003
+2
+Ai là người đưa ra lý thuyết tiến hóa?
+Alfred Wallace
+Gregor Mendel
+Charles Darwin
+Louis Pasteur
+2
+Trường đại học đầu tiên ở Châu Âu nằm ở đâu?
+Berlin
+Athenes
+Rome
+Paris
+1
+Ai là người đã kế tục sự nghiệp của nhà họ Khúc ở nước ta?
+Kiều Công Tiễn
+Dương Đình Nghệ
+Ngồ Quyền
+Khúc Thừa Mỹ
+1
+Công trình kiến trúc nào được mệnh danh là "công trình của tình yêu"?
+Đền Angkor Wat
+Đền Angkor Thom
+Đền Taj Mahal
+Đền Panthenon
+2
+Người Nga có phong tục tặng quà gì cho khách quý của mình?
+Đồ trang sức
+Những tác phẩm Văn học mà họ yêu thích
+Hoa
+Bánh mỳ và muối
+3
+Năm 1967, Liên Xô khánh thành bức tranh toàn cảnh chiến thắng Stalingrad rất hoành tráng trên đồi Mamaiep ở thành phố nào?
+Stalingrad
+Moskva
+Leningrad (Saint Peterburg)
+Vongagrad.
+3
+Chỉ thị “Nhật Pháp bắn nhau và hành động của chúng ta” được phát ra vào ngày nào?
+12/3/1945
+26/4/1945
+15/5/1945
+14/8/1945
+0
+Loại rau nào trước đây bị coi là có độc?
+Lạc.
+Cà tím.
+Rau bạc hà.
+Cà chua.
+3
+Ngọc Linh (2598m) là đỉnh núi cao nhất Tây Nguyên, vậy đỉnh núi này thuộc tỉnh nào?
+Gia Lai
+Lâm Đồng
+Dak Lak
+Kon Tum
+3
+Nền văn minh Babylon ngày nay thuộc đất nước nào?
+Arab Saudi
+Iran
+Iraq
+Thổ Nhĩ Kỳ
+2
+Thành phố nào của Italia được Shakespeares chọn làm bối cảnh diễn ra câu chuyện “Romeo và Juliet” ?
+Verona
+Parma
+Turin
+Milan
+0
+Ở Hy Lạp thời kỳ xuất hiện các quốc gia thành bang, có 2 quốc gia thành bang lớn nhất là Athene và quốc gia nào?
+Sparte
+Alexandria
+Jerusalem
+Euphrate
+0
+Giải thưởng nào được lập ra vào năm 2005 được trao cho những người có thành tựu trong việc phát huy và gìn giữ văn hóa dân tộc?
+Đào Tấn
+Bùi Xuân Phái
+Lê Văn Thiêm
+Phạm Thuận Dật
+0
+Giáo sư Trần Văn Khê nổi tiếng ở lĩnh vực nào?
+Toán học
+Thiên văn học
+Lịch sử
+Âm nhạc
+3
+Giải đua xe đạp vòng quanh nước Pháp năm 2001 có mấy chặng đua?
+16
+21
+26
+31
+1
+Nam ca sĩ nào đạt giải thưởng Ca sĩ của năm tại Lễ trao giải Làn Sóng Xanh 2010?
+Đàm Vĩnh Hưng
+Lam Trường
+Đan Trường
+Minh Quân
+0
+Phi hành gia Phạm Tuân đã mang loại thực vật nào để nghiên cứu trên con tàu vũ trụ Phương Đông?
+Bèo tấm
+Bèo tổ ong
+Bèo hoa dâu
+Bèo cái
+2
+The ASEAN WAY-ca khúc chính thức của ASEAN là sáng tác của nhạc sĩ người nước nào?
+Việt Nam
+Thái Lan
+Singapore
+Malaysia
+1
+CLB nào vô địch FIFA Club World Cup 2010 tổ chức tại Qatar?
+Inter Milan
+Real Madrid
+Bayern Munich
+Manchester United
+0
+Trong các hàm số lượng giác cơ bản, hàm số nào là hàm số chẵn?
+y=sinx
+y=cosx
+y=cotgx
+y=tgx
+1
+Tay đua nào đã đoạt chiếc áo vàng chung cuộc Tour De France 2009?
+Andy Schleck
+Lance Armtrong
+Anberto Contador
+Georg Totschnig
+2
