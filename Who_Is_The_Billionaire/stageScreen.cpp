@@ -68,6 +68,11 @@ void stageScreen::loadQues()
 		fi.close();
 	}
 
+	if (!stageScreen::easyQues.empty())
+		stageScreen::easyQues.clear();
+	if (!stageScreen::hardQues.empty())
+		stageScreen::hardQues.clear();
+
 	fi.open("resources/data.txt");
 	int n, m;
 	fi >> n >> m;
@@ -87,6 +92,7 @@ void stageScreen::loadQues()
 		else
 			stageScreen::hardQues.push_back(question(q, a));
 	}
+	fi.close();
 }
 
 std::string stageScreen::help1Handle()
