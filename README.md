@@ -6,7 +6,7 @@
 * [2. Tính năng](#tinh-nang)
 * [3. Hướng dẫn cài đặt](#cai-dat)
 * [4. Hướng dẫn chơi](#cach-choi)
-* [5. Tài liệu tham khao](#tham-khao)
+* [5. Tài liệu tham khảo](#tham-khao)
 * [6. Tác giả](#tac-gia)
 
 <a name="gioi-thieu"/>
