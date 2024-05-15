@@ -47,7 +47,7 @@
 ### Mục tiêu:
 - **Mục tiêu**: Vượt qua 15 câu hỏi để giành chiến thắng!
 ### Video minh hoạ:
-
+https://github.com/honga789/Who_Is_The_Billionaire/assets/95555208/cc7b2096-4bbd-4238-a71f-fe08597270fe
 
 <a name="tham-khao"/>
 
