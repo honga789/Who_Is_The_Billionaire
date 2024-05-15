@@ -59,4 +59,4 @@ https://github.com/honga789/Who_Is_The_Billionaire/assets/95555208/cc7b2096-4bbd
 
 ## VI Tác giả:
   - Người phát triển: Nguyễn Hồng Anh
-  - Gmail: 23021466@vnu.edu.vn
+  - Email: 23021466@vnu.edu.vn
