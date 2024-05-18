@@ -6,7 +6,7 @@
 * [2. Tính năng](#tinh-nang)
 * [3. Hướng dẫn cài đặt](#cai-dat)
 * [4. Hướng dẫn chơi](#cach-choi)
-* [5. Tài liệu tham khao](#tham-khao)
+* [5. Tài liệu tham khảo](#tham-khao)
 * [6. Tác giả](#tac-gia)
 
 <a name="gioi-thieu"/>
@@ -59,4 +59,4 @@ https://github.com/honga789/Who_Is_The_Billionaire/assets/95555208/cc7b2096-4bbd
 
 ## VI Tác giả:
   - Người phát triển: Nguyễn Hồng Anh
-  - Gmail: 23021466@vnu.edu.vn
+  - Email: 23021466@vnu.edu.vn
