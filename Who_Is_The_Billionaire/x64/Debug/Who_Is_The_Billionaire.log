@@ -1,5 +1,6 @@
-﻿  stageScreen.cpp
+﻿  main.cpp
 D:\Documents\Code\Games\Who_Is_The_Billionaire\Who_Is_The_Billionaire\constants.h(16,6): warning C4091: 'static ': ignored on left of 'constants::SCREEN_STATE' when no variable is declared
-  (compiling source file 'stageScreen.cpp')
+  (compiling source file 'main.cpp')
   
+D:\Documents\Code\Games\Who_Is_The_Billionaire\Who_Is_The_Billionaire\main.cpp(80,41): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
   Who_Is_The_Billionaire.vcxproj -> D:\Documents\Code\Games\Who_Is_The_Billionaire\x64\Debug\Who_Is_The_Billionaire.exe
